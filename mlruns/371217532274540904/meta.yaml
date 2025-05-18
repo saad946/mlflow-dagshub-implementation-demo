@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/Dell/Desktop/MlOps/mlflow/mlruns/371217532274540904
+creation_time: 1747590365917
+experiment_id: '371217532274540904'
+last_update_time: 1747590365917
+lifecycle_stage: active
+name: Anomaly Detection with Registry

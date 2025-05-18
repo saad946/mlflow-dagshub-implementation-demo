@@ -1,0 +1,14 @@
+python -m venv mlflow-env
+mlflow-env\Scripts\activate  # On Windows
+pip install --upgrade pip setuptools wheel
+pip install mlflow numpy==1.23.5 typer
+python -m pip install --upgrade pip setuptools wheel
+pip install ipykernel
+pip install --upgrade debugpy
+pip install numpy scikit-learn xgboost
+pip install imbalanced-learn
+pip uninstall numpy
+pip install numpy
+pip install dagshub
+python -m ipykernel install --user --name=mlflow-env --display-name "Python (mlflow-env)"
+

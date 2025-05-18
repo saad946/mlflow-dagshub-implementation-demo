@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Dell/Desktop/MlOps/mlflow/mlruns/518488143225709435/e2a207b0b6af46c6b5432024aa0ded4d/artifacts
+end_time: 1747585672182
+entry_point_name: ''
+experiment_id: '518488143225709435'
+lifecycle_stage: active
+run_id: e2a207b0b6af46c6b5432024aa0ded4d
+run_name: sedate-bug-59
+run_uuid: e2a207b0b6af46c6b5432024aa0ded4d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747585664956
+status: 3
+tags: []
+user_id: Dell

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Dell/Desktop/MlOps/mlflow/mlruns/266522589350944991/9375a6095dea4c1782acf9edda63aefe/artifacts
+end_time: 1747588111213
+entry_point_name: ''
+experiment_id: '266522589350944991'
+lifecycle_stage: active
+run_id: 9375a6095dea4c1782acf9edda63aefe
+run_name: Random Forest
+run_uuid: 9375a6095dea4c1782acf9edda63aefe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747588106436
+status: 3
+tags: []
+user_id: Dell
